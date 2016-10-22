@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					923AED7A1DBA718E006B9F6E = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 45L2BJS8P9;
 						ProvisioningStyle = Automatic;
 					};
 					923AED8E1DBA718E006B9F6E = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 45L2BJS8P9;
 				INFOPLIST_FILE = MySwiftProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = xiaoyangyang.MySwiftProject;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 45L2BJS8P9;
 				INFOPLIST_FILE = MySwiftProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = xiaoyangyang.MySwiftProject;
