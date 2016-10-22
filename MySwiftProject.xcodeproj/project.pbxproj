@@ -47,6 +47,7 @@
 		923AED9A1DBA718F006B9F6E /* MySwiftProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MySwiftProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		923AED9E1DBA718F006B9F6E /* MySwiftProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySwiftProjectUITests.swift; sourceTree = "<group>"; };
 		923AEDA01DBA718F006B9F6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92EA2DA31DBAFF5B00F300AC /* Fail mark.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Fail mark.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		923AED7D1DBA718E006B9F6E /* MySwiftProject */ = {
 			isa = PBXGroup;
 			children = (
+				92EA2DA31DBAFF5B00F300AC /* Fail mark.h */,
 				923AED7E1DBA718E006B9F6E /* AppDelegate.swift */,
 				923AED801DBA718E006B9F6E /* ViewController.swift */,
 				923AED821DBA718E006B9F6E /* Main.storyboard */,
@@ -506,6 +508,7 @@
 				923AEDA51DBA718F006B9F6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		923AEDA61DBA718F006B9F6E /* Build configuration list for PBXNativeTarget "MySwiftProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +517,7 @@
 				923AEDA81DBA718F006B9F6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		923AEDA91DBA718F006B9F6E /* Build configuration list for PBXNativeTarget "MySwiftProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +526,7 @@
 				923AEDAB1DBA718F006B9F6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
